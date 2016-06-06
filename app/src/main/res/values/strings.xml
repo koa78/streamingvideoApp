@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vidéo en direct</string>
+    <string name="error_unknownMX">Impossible de trouver MX Video Player.</string>
+    <string name="button_launchVideo">Regarder une vidéo !</string>
+</resources>
